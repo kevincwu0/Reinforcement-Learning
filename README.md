@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-When you one thinks of AI, they don't mean supervised and unsupervised machine learning. These tasks are pretty trivial compared to what our conception of what we think AIs are doing such as beating DOTA and Go world champions, self-driving cars, beating video games.
+When one thinks of AI, one usually don't think of supervised and unsupervised machine learning. These tasks are pretty trivial compared to what our conception of what we think AIs are doing such as beating DOTA and Go world champions, self-driving cars, beating video games.
 
 Reinforcement Learning is all the rage because it can do all the above and more. Lots of the theories was discovered in the 70s and 80s but it hasn't been until recently that we've been able to observe first hand the amazing results possible.
 
